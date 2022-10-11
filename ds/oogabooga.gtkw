@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Oct 11 22:42:02 2022
+[*]
+[dumpfile] "C:\Users\Brandon Local\Desktop\ds\Alu_Top_tb.vcd"
+[dumpfile_mtime] "Tue Oct 11 22:36:46 2022"
+[dumpfile_size] 2069
+[savefile] "C:\Users\Brandon Local\Desktop\ds\oogabooga.gtkw"
+[timestart] 0
+[size] 1280 657
+[pos] -61 -50
+*-5.749239 24 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Alu_Top_tb.
+[treeopen] Alu_Top_tb.uut.
+[sst_width] 197
+[signals_width] 231
+[sst_expanded] 1
+[sst_vpaned_height] 178
+@28
+Alu_Top_tb.uut.alu_ctrlr_inst.func_code[2:0]
+@22
+Alu_Top_tb.uut.alu_ctrlr_inst.func_field[5:0]
+Alu_Top_tb.uut.alu_ctrlr_inst.opcode[5:0]
+@28
+Alu_Top_tb.uut.alu_ctrlr_inst.alu_control[2:0]
+@22
+Alu_Top_tb.uut.alu_core_inst.A[31:0]
+Alu_Top_tb.uut.alu_core_inst.B[31:0]
+Alu_Top_tb.uut.alu_core_inst.result[31:0]
+@28
+Alu_Top_tb.uut.alu_core_inst.zero
+[pattern_trace] 1
+[pattern_trace] 0
