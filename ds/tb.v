@@ -38,6 +38,7 @@ initial begin
 	#30;
 	A=32'h2222; B=32'h1111;
 	opcode=6'h00;func_field=6'h20; 
+
 	#30;
 	opcode=6'h00;func_field=6'h24;
 	#30;

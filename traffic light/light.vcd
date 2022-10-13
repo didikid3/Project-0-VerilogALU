@@ -1,0 +1,53 @@
+$date
+	Thu Oct 13 16:13:40 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module light $end
+$var wire 1 ! NSLite $end
+$var wire 1 " EWLite $end
+$var reg 1 # EWCar $end
+$var reg 1 $ NSCar $end
+$scope module uut $end
+$var wire 1 # EWCar $end
+$var wire 1 " EWLite $end
+$var wire 1 $ NSCar $end
+$var wire 1 ! NSLite $end
+$var reg 1 % state $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+0$
+0#
+0"
+1!
+$end
+#30
+0!
+1"
+1%
+1#
+#45
+1!
+0"
+0%
+1$
+#75
+0#
+#105
+0!
+1"
+1%
+0$
+1#
+#135
